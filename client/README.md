@@ -1,5 +1,5 @@
 
-# ws-server — Scaffolding
+# ws-server — Estructura de paquetes
 
 ## Estructura del proyecto
 
